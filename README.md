@@ -7,5 +7,5 @@ Project description:
 
 
 URL:  https://salary007.herokuapp.com/submit
-              
+              https://salarypreds-api.herokuapp.com/
               
