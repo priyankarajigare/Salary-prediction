@@ -2,6 +2,6 @@
 Project description:
             This is a guided project in which we describe concisely how to deploy a regression model (salary prediction) through a cloud API using a flask app and heroku.
             
-       ![image](https://user-images.githubusercontent.com/72297166/142756036-bf67b162-78cd-4673-99aa-040faaf3e581.png)
+![image](https://user-images.githubusercontent.com/72297166/142756065-dab4febc-c0b2-4c26-95a2-dd4ee031669a.png)
 
 URL: https://salary007.herokuapp.com/submit
