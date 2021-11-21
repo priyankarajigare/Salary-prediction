@@ -6,6 +6,5 @@ Project description:
 ![image](https://user-images.githubusercontent.com/72297166/142755876-dcc44a8d-620e-427b-bad5-28e9457d3b3f.png)
 
 
-URL:  https://salary007.herokuapp.com/submit
-              https://salarypreds-api.herokuapp.com/
+URL:   https://salarypreds-api.herokuapp.com/
               
